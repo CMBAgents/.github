@@ -1,1 +1,1 @@
-Multi-agent system for cosmological data analysis
+Multi-agent systems for cosmological data analysis
