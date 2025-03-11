@@ -1,2 +1,2 @@
 # .github
-Agentic AI for CMB analyses
+Agentic AI
