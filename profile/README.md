@@ -7,7 +7,7 @@ We develop multi-agent systems to automate scientific discovery.
 
 🔬 Explore Our Work
 
-- Try the beta release of [cmbagent](https://github.com/CMBAgents/cmbagent).
+- Try the beta release of [cmbagent](https://github.com/CMBAgents/cmbagent) (no human-in-the-loop).
   
 - Check out our interactive demo [notebooks](https://github.com/CMBAgents/cmbagent/tree/main/docs/notebooks).
 
