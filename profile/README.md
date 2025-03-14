@@ -6,7 +6,7 @@ We develop open-source multi-agent systems to automate scientific discovery.
 
 - Try the beta release of [cmbagent](https://github.com/CMBAgents/cmbagent) (no human-in-the-loop). Please star us!
   
-- Check out our interactive demo [notebooks](https://github.com/CMBAgents/cmbagent/tree/main/docs/notebooks).
+- Check out our demo [notebooks](https://github.com/CMBAgents/cmbagent/tree/main/docs/notebooks).
 
 📺 Stay Updated – Subscribe to our [YouTube channel](https://www.youtube.com/@cmbagent) for insights, tutorials, and project updates!
 
