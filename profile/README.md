@@ -9,11 +9,11 @@
 </a>
 
 
-We develop **open-source** **research-ready** multi-agent systems to automate scientific discovery.
+We develop **open-source** **research-ready** multi-agent systems to automate scientific discovery. 
 
 🔬 Explore Our Work
 
-- Try the beta release of [cmbagent](https://github.com/CMBAgents/cmbagent) (no human-in-the-loop). Please star us!
+- Try the beta release of [cmbagent](https://github.com/CMBAgents/cmbagent) (no human-in-the-loop). Please **star the  repo ⭐ and cite [Laverick et al (2024)](https://inspirehep.net/literature/2854800)**. 
   
 - Check out our demo [notebooks](https://github.com/CMBAgents/cmbagent/tree/main/docs/notebooks).
 
