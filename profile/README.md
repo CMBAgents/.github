@@ -19,7 +19,7 @@ We develop **open-source** **research-ready** multi-agent systems to automate sc
 
 📺 Stay Updated – Subscribe to our [YouTube channel](https://www.youtube.com/@cmbagent) for insights, tutorials, and project updates!
 
-🚀 Powered by [AG2](https://github.com/ag2ai/ag2).
+🚀 **Powered by [AG2](https://github.com/ag2ai/ag2)**.
 
 
 <img width="460" alt="Screenshot 2025-03-17 at 01 33 18" src="https://github.com/user-attachments/assets/aa7720ed-f779-4212-a9c8-b51f3cc13be0" />
