@@ -1,6 +1,14 @@
 # Multi-agent Systems for Science, Developed by Cosmologists
+ <a href="https://colab.research.google.com/github/CMBAgents/cmbagent/blob/main/docs/notebooks/cmbagent_colab_demo.ipynb" target="_parent">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> 
 
-We develop open-source multi-agent systems to automate scientific discovery.
+
+
+[![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@cmbagent)
+
+
+We develop **open-source** **research-ready** multi-agent systems to automate scientific discovery.
 
 🔬 Explore Our Work
 
@@ -13,4 +21,4 @@ We develop open-source multi-agent systems to automate scientific discovery.
 🚀 Powered by [AG2](https://github.com/ag2ai/ag2).
 
 
-<img width="414" alt="Screenshot 2025-03-13 at 22 59 45" src="https://github.com/user-attachments/assets/adb1f83e-e74f-42ef-9ba5-0297733bcef9" />
+<img width="460" alt="Screenshot 2025-03-17 at 01 33 18" src="https://github.com/user-attachments/assets/aa7720ed-f779-4212-a9c8-b51f3cc13be0" />
