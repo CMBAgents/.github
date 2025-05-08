@@ -9,7 +9,7 @@
 
 We develop **open-source** **research-ready** multi-agent systems to automate scientific discovery. 
 
-Run [cmbagent](https://github.com/CMBAgents/cmbagent) in [Colab](https://colab.research.google.com/github/CMBAgents/cmbagent/blob/main/docs/notebooks/cmbagent_colab_demo.ipynb) and watch our [demo video](https://www.youtube.com/watch?v=XE0Eu-tMpgs&t=1s) on YouTube!
+Watch our [demo videos](https://www.youtube.com/watch?v=XE0Eu-tMpgs&t=1s) on YouTube!
 
 🔬 Explore Our Work
 
