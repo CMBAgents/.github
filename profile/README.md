@@ -47,3 +47,9 @@ https://lnkd.in/ef5J2G-t
 - Yuan-Sen Ting's AstroLLama:
 https://lnkd.in/eNEKEzft
 
+
+For benchmarks, also made by cosmologists, check:
+
+- https://tpbench.org/
+- https://huggingface.co/ASTROANTS
+
