@@ -23,3 +23,27 @@ Watch our [demo videos](https://www.youtube.com/watch?v=XE0Eu-tMpgs&t=1s) on You
 
 Please star [AG2](https://github.com/ag2ai/ag2) ⭐ and cite [Wu et al (2023)](https://arxiv.org/abs/2308.08155)!
 
+
+For similar systems, also developed by cosmologists, make sure you check:
+
+- Santiago Casas and Christian Fidler's CLAPP:
+https://lnkd.in/eMjRMqEB
+- Sultan Hassan, Ph.D.'s CosmoGemma:
+Github: https://lnkd.in/eBznD7h4
+HF space: https://lnkd.in/evU7N6AR
+Blog: https://lnkd.in/ewsS_G58
+and SkimarXiv:
+HF space: https://lnkd.in/evG_t5f8
+- Sihan Sandy Yuan's AstroAgent:
+https://lnkd.in/eAsEVuED
+- Francisco Villaescusa-Navarro CAMELS Agents:
+https://lnkd.in/eseuMeaY
+- Antony Lewis' software assistants: 
+https://lnkd.in/ebyvtuDU
+- Nolan Koblischke's ChatGaia:
+https://lnkd.in/eCEvGQiH
+- UniverseTBD's AstroCoder: 
+https://lnkd.in/ef5J2G-t
+- Yuan-Sen Ting's AstroLLama:
+https://lnkd.in/eNEKEzft
+
