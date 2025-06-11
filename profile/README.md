@@ -13,9 +13,8 @@ Watch our [demo videos](https://www.youtube.com/watch?v=XE0Eu-tMpgs&t=1s) on You
 
 🔬 Explore Our Work
 
-- Try the beta release of [cmbagent](https://github.com/CMBAgents/cmbagent) (no human-in-the-loop). Please **star the  repo ⭐ and cite [Laverick et al (2024)](https://inspirehep.net/literature/2854800)**. 
-  
-- Check out our demo [notebooks](https://github.com/CMBAgents/cmbagent/tree/main/docs/notebooks).
+- Try the beta release of [cmbagent](https://github.com/CMBAgents/cmbagent) (no human-in-the-loop). Please **star the  repo ⭐.
+
 
 📺 Stay Updated – Subscribe to our [YouTube channel](https://www.youtube.com/@cmbagent) for insights, tutorials, and project updates!
 
