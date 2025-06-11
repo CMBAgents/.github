@@ -13,7 +13,7 @@ Watch our [demo videos](https://www.youtube.com/watch?v=XE0Eu-tMpgs&t=1s) on You
 
 🔬 Explore Our Work
 
-- Try the beta release of [cmbagent](https://github.com/CMBAgents/cmbagent) (no human-in-the-loop). Please **star the  repo ⭐.
+- Try the beta release of [cmbagent](https://github.com/CMBAgents/cmbagent) (no human-in-the-loop). Please **star the  repo ⭐ to support our open source work**.
 
 
 📺 Stay Updated – Subscribe to our [YouTube channel](https://www.youtube.com/@cmbagent) for insights, tutorials, and project updates!
