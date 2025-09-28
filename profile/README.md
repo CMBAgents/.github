@@ -15,6 +15,8 @@ Watch our [demo videos](https://www.youtube.com/watch?v=XE0Eu-tMpgs&t=1s) on You
 
 - Try the beta release of [cmbagent](https://github.com/CMBAgents/cmbagent) (no human-in-the-loop). Please **star the  repo ⭐ to support our open source work**.
 
+- Check [Denario](https://astropilot-ai.github.io/DenarioPaperPage/), our end-to-end research system. 
+
 
 📺 Stay Updated – Subscribe to our [YouTube channel](https://www.youtube.com/@cmbagent) for insights, tutorials, and project updates!
 
