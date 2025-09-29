@@ -17,7 +17,7 @@ Watch our [demo videos](https://www.youtube.com/watch?v=XE0Eu-tMpgs&t=1s) on You
 
 - Check [Denario](https://astropilot-ai.github.io/DenarioPaperPage/), our end-to-end research system.
 
-- Check [Synapses](https://cmbagent-info-602105671882.europe-west1.run.app/landing), our domain-secific code chatbots and leaderboars.
+- Check [Synapses](https://cmbagent-info-602105671882.europe-west1.run.app/landing), our domain-secific code chatbots and leaderboards.
 
 
  **Give us stars to support our open source work, thanks!**
