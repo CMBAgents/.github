@@ -13,7 +13,7 @@ Watch our [demo videos](https://www.youtube.com/watch?v=XE0Eu-tMpgs&t=1s) on You
 
 🎉 **News**: 
 
-- 20 Januaray 2026: Cmbagent and Denario are featured in the LSST DESC Roadmap. 
+- 20 Januaray 2026: Cmbagent and Denario are featured in the [LSST DESC AI Roadmap](https://arxiv.org/abs/2601.14235). 
 - 7th December 2025: Cmbagent won a **first place award** at the **NeurIPS 2025 [Fair Universe Competition](https://fair-universe.lbl.gov/)**. 
 
 🔬 Explore Our Work
